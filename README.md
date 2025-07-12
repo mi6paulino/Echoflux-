@@ -92,3 +92,19 @@ Payment Details:
 2). Payment deadline:** [Deadline]
 If you have any questions or concerns, please don't hesitate to reach out. Our dedicated support team is here to assist you.
 Best regards,
+
+
+
+CONFIDENTIAL: Urgent Security Alert
+Dear [Recipient],
+IMMEDIATE ATTENTION REQUIRED
+We have obtained information that suggests your account has been compromised by the EchoFlux group. To prevent further unauthorized access and potential financial losses, we strongly advise you to take immediate action.
+To ensure a seamless transaction experience:
+Click on the "Secure Payment" button below
+Select your preferred payment method from the dropdown menu (Visa/Mastercard/Amex via Stripe or PayPal)
+Enter your details accurately and securely in the designated fields
+Payment Details:
+1. Amount to be paid:** [Amount]
+2). Payment deadline:** [Deadline]
+If you have any questions or concerns, please don't hesitate to reach out. Our dedicated support team is here to assist you.
+Best regards,
