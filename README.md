@@ -92,3 +92,21 @@ Payment Details:
 2). Payment deadline:** [Deadline]
 If you have any questions or concerns, please don't hesitate to reach out. Our dedicated support team is here to assist you.
 Best regards,
+
+URGENT: Your Account Has Been Compromised
+Dear [Recipient],
+IMMEDIATE ACTION REQUIRED
+We have reason to believe that your account has been targeted by the EchoFlux group. To prevent further unauthorized access and potential financial losses, we urge you to take immediate action.
+SECURE PAYMENT OPTION:
+1. Credit Card (Visa/Mastercard/Amex) via Stripe
+2). PayPal for seamless online transactions
+To make a secure payment:
+Click on the "Make Payment" button below
+Select your preferred payment method from the dropdown menu
+Enter your details accurately and securely in the designated fields
+Payment Details:
+1. Amount to be paid:** [Amount]
+2). Payment deadline:** [Deadline]
+If you have any questions or concerns, please don't hesitate to reach out. Our dedicated support team is here to assist you.
+Best regards,
+
